@@ -31,5 +31,5 @@
 - [Álgebra computacional / Computational Algebra](https://github.com/dgonzalezarbelo/DG-C5S1-ALCO)
 ### Segundo semestre
 - [Análisis numérico / Numerical Analysis](https://github.com/dgonzalezarbelo/DG-C5S2-ANNU)
-- [TFG en Informática / Computer Science thesis](https://github.com/dgonzalezarbelo/TFG-Informática)
-- [TFG en Matemáticas / Mathematics thesis](https://github.com/dgonzalezarbelo/TFG-Matemáticas)
+- [TFG en Informática / Computer Science thesis](https://github.com/dgonzalezarbelo/TFG-Informatica)
+- [TFG en Matemáticas / Mathematics thesis](https://github.com/dgonzalezarbelo/TFG-Matematicas)
