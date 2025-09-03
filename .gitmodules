@@ -1,3 +1,45 @@
 [submodule "DG-C1S1-FP1"]
 	path = DG-C1S1-FP1
 	url = https://github.com/dgonzalezarbelo/DG-C1S1-FP1
+[submodule "DG-C1S2-FP2"]
+	path = DG-C1S2-FP2
+	url = https://github.com/dgonzalezarbelo/DG-C1S2-FP2
+[submodule "DG-C2S1-FAL"]
+	path = DG-C2S1-FAL
+	url = https://github.com/dgonzalezarbelo/DG-C2S1-FAL
+[submodule "DG-C2S1-TP1"]
+	path = DG-C2S1-TP1
+	url = https://github.com/dgonzalezarbelo/DG-C2S1-TP1
+[submodule "DG-C2S2-ED"]
+	path = DG-C2S2-ED
+	url = https://github.com/dgonzalezarbelo/DG-C2S2-ED
+[submodule "DG-C2S2-TP2"]
+	path = DG-C2S2-TP2
+	url = https://github.com/dgonzalezarbelo/DG-C2S2-TP2
+[submodule "DG-C3S1-MARP1"]
+	path = DG-C3S1-MARP1
+	url = https://github.com/dgonzalezarbelo/DG-C3S1-MARP1
+[submodule "DG-C3S2-MARP2"]
+	path = DG-C3S2-MARP2
+	url = https://github.com/dgonzalezarbelo/DG-C3S2-MARP2
+[submodule "DG-C4S1-PD"]
+	path = DG-C4S1-PD
+	url = https://github.com/dgonzalezarbelo/DG-C4S1-PD
+[submodule "DG-C4S2-PC"]
+	path = DG-C4S2-PC
+	url = https://github.com/dgonzalezarbelo/DG-C4S2-PC
+[submodule "DG-C5S1-ALCO"]
+	path = DG-C5S1-ALCO
+	url = https://github.com/dgonzalezarbelo/DG-C5S1-ALCO
+[submodule "DG-C5S2-ANNU"]
+	path = DG-C5S2-ANNU
+	url = https://github.com/dgonzalezarbelo/DG-C5S2-ANNU
+[submodule "TFG-Matematicas"]
+	path = TFG-Matematicas
+	url = https://github.com/dgonzalezarbelo/TFG-Matematicas
+[submodule "TFG-Informatica"]
+	path = TFG-Informatica
+	url = https://github.com/dgonzalezarbelo/TFG-Informatica
+[submodule "DG-C4S2-PL-Cpm"]
+	path = DG-C4S2-PL-Cpm
+	url = https://github.com/dgonzalezarbelo/DG-C4S2-PL-Cpm
